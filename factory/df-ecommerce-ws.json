@@ -1,0 +1,15 @@
+{
+	"name": "df-ecommerce-ws",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03bf2fb6-a7f1-4e1d-9903-a0a351c41e56",
+		"tenantId": "efd6468d-1599-4032-bf06-e08cd0f92686"
+	}
+}
